@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(250, 140, 140);
+}
+#timer{
+    font-size: xx-large;
+    float:right;
+    margin-right: 1400px;
+}
+#score{
+    font-size: xx-large;
+    margin-left: 800px;
+}
+#future_sketch{
+    font-size: x-large;
+    font-weight: bold;
+    font-color:
+}
